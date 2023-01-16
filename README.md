@@ -1,2 +1,2 @@
-# Repo_Nodejs
-Repositório estudos de Node.js
+# Repositório estudos de Node.js
+# Descrição dos diretórios
